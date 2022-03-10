@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Пример учебного проекта
 
-You can use the [editor on GitHub](https://github.com/fpmi-tp2022/labrabota5t1-testproject/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Для редактирования страниц используем [editor on GitHub](https://github.com/fpmi-tp2022/labrabota5t1-testproject/edit/main/docs/index.md). Формат файлов — Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
